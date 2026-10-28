@@ -1,0 +1,31 @@
+contestant_id,contestant,age_wikipedia,age_abc_list,hometown,hometown_alt,status,elimination_episode,made_top18,made_top5,irl_member,audition_song,prior_show_experience,group_performances,bottom_appearances,notes
+C01,Sergio Calderon Jr.,16,,"Redwood City, California",,winner_IRL,,Y,Y,Y,"Stand by Me (Prince Royce, bilingual)",,6,1,Bottom two in Ep 8 with Devin Hayes; saved by viewers
+C02,Brady Tutton,15,,"Shorewood, Wisconsin",,winner_IRL,,Y,Y,Y,On Bended Knee (Boyz II Men),Played Brock on Fresh Off the Boat,6,0,Youngest IRL member; never in bottom two/three
+C03,Michael Conor Smith,18,,"Cleveland, Ohio","Shaker Heights, Ohio",winner_IRL,,Y,Y,Y,A Little More (Machine Gun Kelly),,6,0,Billed as 'Michael Conor' until June 2019; rapping violinist; never in bottom
+C04,Chance Perez,19,,"Seal Beach, California",,winner_IRL,,Y,Y,Y,Somebody to Love (Queen),America's Got Talent 2016 as 'The WVKE' (buzzed out),6,0,Never in bottom
+C05,Drew Ramos,19,,"Bronx, New York",,winner_IRL,,Y,Y,Y,Stay with Me (Sam Smith),,6,0,Never in bottom; breakout was MAXED's Can't Take My Eyes Off You
+C06,Jaden Gray,16,16,"Hawthorne, California",,eliminated_final_8,10,Y,N,N,,,6,0,
+C07,Mikey Jimenez,17,18,"East Los Angeles, California",,eliminated_final_8,10,Y,N,N,,,6,1,Bottom in Ep 4 (saved)
+C08,Marcus Pendleton,16,17,"Nashville, Tennessee",,eliminated_final_8,10,Y,N,N,,,6,0,
+C09,Devin Hayes,17,18,"Springfield, Illinois",,eliminated,8,Y,N,N,,,6,2,Bottom in Ep 7 (saved by America) and Ep 8 (eliminated); Wikipedia lists age 17/18
+C10,Jay 'J Hype' Gilbert,14,,"Las Vegas, Nevada",,eliminated,7,Y,N,N,,,5,1,Beatboxer; youngest contestant
+C11,Andrew Bloom,19,20,"Yorba Linda, California",,eliminated,7,Y,N,N,,American Idol S14 and S15 auditions,5,2,Bottom in Ep 2 (saved) and Ep 7 (eliminated)
+C12,Cam Jackson,19,19,"Willingboro, New Jersey",,eliminated,6,Y,N,N,,,4,1,Listed as 'Camry Jackson' on Wikipedia
+C13,Andrew Butcher,17,17,"Greenwood, Indiana","Memphis, Tennessee",eliminated,6,Y,N,N,,,4,1,Hometown conflict between sources
+C14,Dorian Tyler,15,16,"Memphis, Tennessee",,eliminated,5,Y,N,N,,,3,1,
+C15,Miles Wesley,20,19,"Marble Falls, Texas",,eliminated,4,Y,N,N,,,2,1,Put up in Ep 4 for lacking 'bad boy' energy; eliminated by audience vote
+C16,Gavin Becker,18,18,"Philadelphia, Pennsylvania",,eliminated,3,Y,N,N,,,1,1,Architects felt he did not stand out
+C17,Jon Klaasen,19,19,"Greenwood, Indiana",,eliminated,2,Y,N,N,,The X Factor US S3 (Forever In Your Mind); American Idol S15 top 50,1,1,
+C18,Cameron Armstrong,22,22,"Columbia, South Carolina",,eliminated,1,Y,N,N,,Ex on the Beach (US) S3,1,1,Architects wanted him to go solo
+C19,Alan Ayala,19,18,"Monterrey, Mexico",,cut_ep1,1,N,N,N,,,0,0,
+C20,Gianni Cardinale,16,16,"Las Vegas, Nevada",,cut_ep1,1,N,N,N,,,0,0,Wikipedia lists age 16/17
+C21,Santino Cardinale,18,18,"Las Vegas, Nevada",,cut_ep1,1,N,N,N,,,0,0,
+C22,Matthew Dean,19,19,"Thousand Oaks, California",,cut_ep1,1,N,N,N,,,0,0,
+C23,Jordan Grizzle,22,22,"Fort Lauderdale, Florida",,cut_ep1,1,N,N,N,,,0,0,
+C24,Lukas James,15,15,"Sarasota, Florida",,cut_ep1,1,N,N,N,,,0,0,
+C25,Stone Martin,18,18,"Hartsville, South Carolina",,cut_ep1,1,N,N,N,,The X Factor US S3 (solo),0,0,
+C26,Dylan Rey,17,17,"Plano, Texas",,cut_ep1,1,N,N,N,,,0,0,
+C27,Zack Taylor,24,24,"Kansas City, Missouri","Kansas City, California (Fandom, likely typo)",cut_ep1,1,N,N,N,,American Idol S14 (as Zack Kaltenbach) top 48,0,0,
+C28,Timmy Thames,17,17,"Malibu, California",,cut_ep1,1,N,N,N,,The X Factor US S3 (solo),0,0,
+C29,Paul Toweh,21,21,"Monrovia, Liberia",,cut_ep1,1,N,N,N,,,0,0,
+C30,Nate Wyatt,20,20,"Cincinnati, Ohio",,cut_ep1,1,N,N,N,,,0,0,

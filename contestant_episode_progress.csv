@@ -1,0 +1,142 @@
+contestant_id,contestant,episode,group,outcome
+1,Sergio Calderon Jr.,1,Uplift,advanced
+2,Brady Tutton,1,,advanced_not_yet_performed
+3,Michael Conor Smith,1,,advanced_not_yet_performed
+4,Chance Perez,1,,advanced_not_yet_performed
+5,Drew Ramos,1,Uplift,advanced
+6,Jaden Gray,1,,advanced_not_yet_performed
+7,Mikey Jimenez,1,,advanced_not_yet_performed
+8,Marcus Pendleton,1,Uplift,advanced
+9,Devin Hayes,1,Uplift,advanced
+10,Jay 'J Hype' Gilbert,1,Uplift,advanced
+11,Andrew Bloom,1,,advanced_not_yet_performed
+12,Cam Jackson,1,,advanced_not_yet_performed
+13,Andrew Butcher,1,,advanced_not_yet_performed
+14,Dorian Tyler,1,,advanced_not_yet_performed
+15,Miles Wesley,1,,advanced_not_yet_performed
+16,Gavin Becker,1,,advanced_not_yet_performed
+17,Jon Klaasen,1,,advanced_not_yet_performed
+18,Cameron Armstrong,1,Uplift,eliminated
+19,Alan Ayala,1,,cut_before_groups
+20,Gianni Cardinale,1,,cut_before_groups
+21,Santino Cardinale,1,,cut_before_groups
+22,Matthew Dean,1,,cut_before_groups
+23,Jordan Grizzle,1,,cut_before_groups
+24,Lukas James,1,,cut_before_groups
+25,Stone Martin,1,,cut_before_groups
+26,Dylan Rey,1,,cut_before_groups
+27,Zack Taylor,1,,cut_before_groups
+28,Timmy Thames,1,,cut_before_groups
+29,Paul Toweh,1,,cut_before_groups
+30,Nate Wyatt,1,,cut_before_groups
+1,Sergio Calderon Jr.,2,,advanced_not_yet_performed
+2,Brady Tutton,2,Reverb,advanced
+3,Michael Conor Smith,2,,advanced_not_yet_performed
+4,Chance Perez,2,Reverb,advanced
+5,Drew Ramos,2,,advanced_not_yet_performed
+6,Jaden Gray,2,Reverb,advanced
+7,Mikey Jimenez,2,,advanced_not_yet_performed
+8,Marcus Pendleton,2,,advanced_not_yet_performed
+9,Devin Hayes,2,,advanced_not_yet_performed
+10,Jay 'J Hype' Gilbert,2,,advanced_not_yet_performed
+11,Andrew Bloom,2,Reverb,bottom_saved
+12,Cam Jackson,2,Reverb,advanced
+13,Andrew Butcher,2,,advanced_not_yet_performed
+14,Dorian Tyler,2,,advanced_not_yet_performed
+15,Miles Wesley,2,,advanced_not_yet_performed
+16,Gavin Becker,2,,advanced_not_yet_performed
+17,Jon Klaasen,2,Reverb,eliminated
+1,Sergio Calderon Jr.,3,,advanced_not_yet_performed
+2,Brady Tutton,3,,advanced_not_yet_performed
+3,Michael Conor Smith,3,Six Track,advanced
+4,Chance Perez,3,,advanced_not_yet_performed
+5,Drew Ramos,3,,advanced_not_yet_performed
+6,Jaden Gray,3,,advanced_not_yet_performed
+7,Mikey Jimenez,3,Six Track,advanced
+8,Marcus Pendleton,3,,advanced_not_yet_performed
+9,Devin Hayes,3,,advanced_not_yet_performed
+10,Jay 'J Hype' Gilbert,3,,advanced_not_yet_performed
+11,Andrew Bloom,3,,advanced_not_yet_performed
+12,Cam Jackson,3,,advanced_not_yet_performed
+13,Andrew Butcher,3,Six Track,advanced
+14,Dorian Tyler,3,Six Track,advanced
+15,Miles Wesley,3,Six Track,advanced
+16,Gavin Becker,3,Six Track,eliminated
+1,Sergio Calderon Jr.,4,Top Line,advanced
+2,Brady Tutton,4,TR5BLE,advanced
+3,Michael Conor Smith,4,Top Line,advanced
+4,Chance Perez,4,Top Line,advanced
+5,Drew Ramos,4,Top Line,advanced
+6,Jaden Gray,4,Element,advanced
+7,Mikey Jimenez,4,Top Line,bottom_saved
+8,Marcus Pendleton,4,TR5BLE,advanced
+9,Devin Hayes,4,Element,advanced
+10,Jay 'J Hype' Gilbert,4,Element,advanced
+11,Andrew Bloom,4,Element,advanced
+12,Cam Jackson,4,TR5BLE,advanced
+13,Andrew Butcher,4,TR5BLE,advanced
+14,Dorian Tyler,4,TR5BLE,advanced
+15,Miles Wesley,4,Element,eliminated
+1,Sergio Calderon Jr.,5,Maxed,advanced
+2,Brady Tutton,5,Next Up,advanced
+3,Michael Conor Smith,5,Timeless,advanced
+4,Chance Perez,5,Timeless,advanced
+5,Drew Ramos,5,Maxed,advanced
+6,Jaden Gray,5,Next Up,advanced
+7,Mikey Jimenez,5,Next Up,advanced
+8,Marcus Pendleton,5,Timeless,advanced
+9,Devin Hayes,5,Maxed,advanced
+10,Jay 'J Hype' Gilbert,5,Maxed,advanced
+11,Andrew Bloom,5,Timeless,advanced
+12,Cam Jackson,5,Maxed,advanced
+13,Andrew Butcher,5,Timeless,advanced
+14,Dorian Tyler,5,Next Up,eliminated
+1,Sergio Calderon Jr.,6,All In,advanced
+2,Brady Tutton,6,All In,advanced
+3,Michael Conor Smith,6,Leveled,advanced
+4,Chance Perez,6,All In,advanced
+5,Drew Ramos,6,Undivided,advanced
+6,Jaden Gray,6,Undivided,advanced
+7,Mikey Jimenez,6,All In,advanced
+8,Marcus Pendleton,6,All In,advanced
+9,Devin Hayes,6,Undivided,advanced
+10,Jay 'J Hype' Gilbert,6,Leveled,advanced
+11,Andrew Bloom,6,Leveled,advanced
+12,Cam Jackson,6,Leveled,eliminated
+13,Andrew Butcher,6,Undivided,eliminated
+1,Sergio Calderon Jr.,7,New Wave,advanced
+2,Brady Tutton,7,Relentless,advanced
+3,Michael Conor Smith,7,Relentless,advanced
+4,Chance Perez,7,Awake,advanced
+5,Drew Ramos,7,Awake,advanced
+6,Jaden Gray,7,Relentless,advanced
+7,Mikey Jimenez,7,New Wave,advanced
+8,Marcus Pendleton,7,New Wave,advanced
+9,Devin Hayes,7,Awake,bottom_saved
+10,Jay 'J Hype' Gilbert,7,New Wave,eliminated
+11,Andrew Bloom,7,Relentless,eliminated
+1,Sergio Calderon Jr.,8,Never Gone,bottom_saved
+2,Brady Tutton,8,Never Gone,advanced
+3,Michael Conor Smith,8,Third Wheel,advanced
+4,Chance Perez,8,Third Wheel,advanced
+5,Drew Ramos,8,Out of Control,advanced
+6,Jaden Gray,8,Out of Control,advanced
+7,Mikey Jimenez,8,Out of Control,advanced
+8,Marcus Pendleton,8,Third Wheel,advanced
+9,Devin Hayes,8,Never Gone,eliminated
+1,Sergio Calderon Jr.,9,,advanced
+2,Brady Tutton,9,,advanced
+3,Michael Conor Smith,9,,advanced
+4,Chance Perez,9,,advanced
+5,Drew Ramos,9,,advanced
+6,Jaden Gray,9,,advanced
+7,Mikey Jimenez,9,,advanced
+8,Marcus Pendleton,9,,advanced
+1,Sergio Calderon Jr.,10,,winner_IRL
+2,Brady Tutton,10,,winner_IRL
+3,Michael Conor Smith,10,,winner_IRL
+4,Chance Perez,10,,winner_IRL
+5,Drew Ramos,10,,winner_IRL
+6,Jaden Gray,10,,eliminated
+7,Mikey Jimenez,10,,eliminated
+8,Marcus Pendleton,10,,eliminated

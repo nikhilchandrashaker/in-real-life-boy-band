@@ -1,0 +1,19 @@
+episode,group,song,original_artist,members,num_members,song_confidence,group_outcome
+1,Uplift,That's What I Like,Bruno Mars,Cameron Armstrong; Devin Hayes; Drew Ramos; Jay 'J Hype' Gilbert; Marcus Pendleton; Sergio Calderon Jr.,6,sourced,Cameron eliminated
+2,Reverb,Stay,,Brady Tutton; Jaden Gray; Cam Jackson; Chance Perez; Andrew Bloom; Jon Klaasen,6,sourced,Jon eliminated; Bloom in final two
+3,Six Track,There's Nothing Holdin' Me Back,Shawn Mendes,Mikey Jimenez; Andrew Butcher; Dorian Tyler; Miles Wesley; Gavin Becker; Michael Conor Smith,6,sourced,Gavin eliminated
+4,Top Line,Despacito,Luis Fonsi & Daddy Yankee,Chance Perez; Drew Ramos; Michael Conor Smith; Sergio Calderon Jr.; Mikey Jimenez,5,song inferred from ordering,"Mikey put up, saved by audience"
+4,TR5BLE,Rolling in the Deep,Adele,Brady Tutton; Marcus Pendleton; Andrew Butcher; Cam Jackson; Dorian Tyler,5,song inferred from ordering,Chosen safe group (no one put up)
+4,Element,Don't Let Me Down,The Chainsmokers,Jaden Gray; Devin Hayes; Andrew Bloom; Jay 'J Hype' Gilbert; Miles Wesley,5,sourced,Miles eliminated by audience vote
+5,Timeless,Livin' on a Prayer,Bon Jovi,Chance Perez; Michael Conor Smith; Marcus Pendleton; Andrew Bloom; Andrew Butcher,5,song inferred by elimination,
+5,Next Up,True Colors,Cyndi Lauper,Brady Tutton; Jaden Gray; Mikey Jimenez; Dorian Tyler,4,sourced,Dorian eliminated
+5,Maxed,Can't Take My Eyes Off You,Frankie Valli (Lauryn Hill version),Drew Ramos; Sergio Calderon Jr.; Devin Hayes; Jay 'J Hype' Gilbert; Cam Jackson,5,sourced,Drew's breakout performance
+6,All In,How Far I'll Go,Auli'i Cravalho (Moana),Brady Tutton; Chance Perez; Sergio Calderon Jr.; Marcus Pendleton; Mikey Jimenez,5,song inferred by elimination,
+6,Undivided,I Don't Want to Miss a Thing,Aerosmith,Drew Ramos; Jaden Gray; Devin Hayes; Andrew Butcher,4,sourced,Butcher eliminated
+6,Leveled,See You Again,Wiz Khalifa ft. Charlie Puth,Michael Conor Smith; Andrew Bloom; Jay 'J Hype' Gilbert; Cam Jackson,4,sourced,Cam eliminated
+7,Relentless,Since U Been Gone,Kelly Clarkson,Brady Tutton; Jaden Gray; Michael Conor Smith; Andrew Bloom,4,sourced,Bloom eliminated
+7,Awake,Without You,,Chance Perez; Drew Ramos; Devin Hayes,3,sourced,"Devin in bottom three, saved by America"
+7,New Wave,Jealous,,Sergio Calderon Jr.; Marcus Pendleton; Mikey Jimenez; Jay 'J Hype' Gilbert,4,sourced,J Hype eliminated
+8,Out of Control,Titanium,David Guetta ft. Sia,Drew Ramos; Jaden Gray; Mikey Jimenez,3,sourced,
+8,Third Wheel,Fighter,Christina Aguilera,Chance Perez; Michael Conor Smith; Marcus Pendleton,3,sourced,
+8,Never Gone,The Edge of Glory,Lady Gaga,Brady Tutton; Sergio Calderon Jr.; Devin Hayes,3,sourced,Sergio and Devin bottom two; Devin eliminated
